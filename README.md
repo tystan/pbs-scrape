@@ -2,7 +2,7 @@
 Python script to web scrape the PBS item code descriptions
 
 ## Background
-The Pharmaceutical Benefits Scheme (PBS) in Australia has a "schedule" of subsidised drugs. The list of these pharmaceuticals, identified by their `item_code` (with corresponding drug description) can be found on [this PBS webpage](https://www.pbs.gov.au/info/statistics/dos-and-dop/dos-and-dop) (look for the link [PBS item drug map (CSV xxx KB)](https://www.pbs.gov.au/statistics/dos-and-dop/files/pbs-item-drug-map.csv)).
+The Pharmaceutical Benefits Scheme (PBS) in Australia has a "schedule" of subsidised medicines. The list of these pharmaceuticals, identified by their `item_code` (with corresponding medicine description) can be found on [this PBS webpage](https://www.pbs.gov.au/info/statistics/dos-and-dop/dos-and-dop) (look for the link [PBS item drug map (CSV xxx KB)](https://www.pbs.gov.au/statistics/dos-and-dop/files/pbs-item-drug-map.csv)).
 
 However, the `item_code` descriptions in the above file can differ from those on the website [pbs.gov.au](https://www.pbs.gov.au)!
 
